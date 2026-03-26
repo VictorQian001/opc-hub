@@ -8,13 +8,13 @@
 
 - [Wiki 首页](./docs/README.md)
 - [站点目录](./docs/sites/README.md)
-- [工具目录](./docs/tools/README.md)
+- [资源库](./docs/resources/README.md)
 
 ## 你可以贡献什么
 
 - 新的 OPC 站点条目
 - 某个城市的线索汇总
-- 工具模板和活动清单
+- 模板、清单和实用网站
 - 资料整理与 FAQ
 - 已有条目的修订、补充和纠错
 
@@ -41,20 +41,12 @@ sites/china/<region>/<city>-<slug>.md
 sites/china/east/hangzhou-peifengshe.md
 ```
 
-### 工具目录
+### 资源目录
 
 原始内容建议放在：
 
 ```text
-tools/<category>/<tool-name>.md
-```
-
-### 资料目录
-
-原始内容建议放在：
-
-```text
-resources/<topic>.md
+resources/<type>/<name>.md
 ```
 
 ## 新增站点的流程
@@ -65,12 +57,12 @@ resources/<topic>.md
 4. 如果有必要，再补 `docs/` 里的索引页链接
 5. 在 PR 描述里说明来源和变更原因
 
-## 新增工具的流程
+## 新增资源的流程
 
-1. 复制 [templates/tool-entry.md](./templates/tool-entry.md)
-2. 写清楚这个工具解决什么问题
-3. 给出可直接复用的模板、清单或结构
-4. 如果需要展示在 wiki 中，再补 `docs/tools/` 下的入口页
+1. 复制 [templates/resource-entry.md](./templates/resource-entry.md)
+2. 写清楚这个资源解决什么问题
+3. 如果是网站，写明官网和典型用途；如果是模板，给出可直接复用内容
+4. 如果需要展示在 wiki 中，再补 `docs/resources/` 下的入口页
 5. 在 PR 里说明适用场景
 
 ## Pull Request 建议

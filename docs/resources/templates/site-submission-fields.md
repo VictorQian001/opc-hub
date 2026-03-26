@@ -1,6 +1,6 @@
 # 站点收录字段模板
 
-[返回模板类工具](./README.md)
+[返回模板与清单](./README.md)
 
 这个模板适合放到邮件、表单、飞书或 GitHub Issue 里，用于统一收集站点信息。
 
@@ -26,4 +26,4 @@
 
 ## 原始内容文件
 
-- [tools/templates/site-submission-fields.md](../../../tools/templates/site-submission-fields.md)
+- [resources/templates/site-submission-fields.md](../../../resources/templates/site-submission-fields.md)

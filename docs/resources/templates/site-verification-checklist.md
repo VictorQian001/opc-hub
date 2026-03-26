@@ -1,6 +1,6 @@
 # 站点核验清单
 
-[返回模板类工具](./README.md)
+[返回模板与清单](./README.md)
 
 这个模板用于判断一个站点是否适合正式进入目录。
 
@@ -25,4 +25,4 @@
 
 ## 原始内容文件
 
-- [tools/templates/site-verification-checklist.md](../../../tools/templates/site-verification-checklist.md)
+- [resources/templates/site-verification-checklist.md](../../../resources/templates/site-verification-checklist.md)

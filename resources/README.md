@@ -1,10 +1,9 @@
 # Resources
 
-这个目录放 OPC 相关公开资料和说明性内容。
+这个目录是合并后的资源库原始内容层，面向一人创业者。
 
-建议后续补充：
+建议按三类组织：
 
-- `what-is-opc.md`
-- `faq.md`
-- `city-directory-method.md`
-- `page-structure-notes.md`
+- `templates/`：模板、清单、结构
+- `websites/`：值得收录的实用网站
+- `guides/`：说明、方法、FAQ、观察

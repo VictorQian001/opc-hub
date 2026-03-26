@@ -7,7 +7,7 @@
 也就是说：
 
 - `docs/` 负责可浏览的知识入口
-- `sites/`、`tools/`、`resources/` 负责存放实际内容
+- `sites/`、`resources/` 负责存放实际内容
 - 所有人都通过 Issue 和 Pull Request 共建
 
 ## 最常见的三种贡献
@@ -22,14 +22,14 @@
 - [城市入口](./cities/README.md)
 - [站点模板](../templates/site-entry.md)
 
-### 2. 新增一个工具
+### 2. 新增一个资源
 
-适合你已经整理好了可复用的字段模板、活动清单、FAQ 草案或页面结构。
+适合你已经整理好了可复用的字段模板、活动清单、FAQ 草案，或者发现了值得收录的实用网站。
 
 先看：
 
-- [工具目录](./tools/README.md)
-- [工具模板](../templates/tool-entry.md)
+- [资源库](./resources/README.md)
+- [资源模板](../templates/resource-entry.md)
 
 ### 3. 修正已有信息
 
@@ -52,4 +52,4 @@
 
 - [贡献说明原文](../CONTRIBUTING.md)
 - [站点收录 Issue 模板](../.github/ISSUE_TEMPLATE/site_submission.md)
-- [工具建议 Issue 模板](../.github/ISSUE_TEMPLATE/tool_submission.md)
+- [资源建议 Issue 模板](../.github/ISSUE_TEMPLATE/resource_submission.md)

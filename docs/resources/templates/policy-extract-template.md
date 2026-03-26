@@ -1,6 +1,6 @@
 # 城市政策摘录模板
 
-[返回模板类工具](./README.md)
+[返回模板与清单](./README.md)
 
 这个模板适合把城市公开政策、通稿或政府信息快速整理成仓库可用内容。
 
@@ -40,4 +40,4 @@
 
 ## 原始内容文件
 
-- [tools/templates/policy-extract-template.md](../../../tools/templates/policy-extract-template.md)
+- [resources/templates/policy-extract-template.md](../../../resources/templates/policy-extract-template.md)

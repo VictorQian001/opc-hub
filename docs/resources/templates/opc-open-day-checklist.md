@@ -1,6 +1,6 @@
 # OPC 初次开放日清单
 
-[返回模板类工具](./README.md)
+[返回模板与清单](./README.md)
 
 这个清单适合首次对外开放站点、发起见面会或做城市说明会时使用。
 
@@ -27,4 +27,4 @@
 
 ## 原始内容文件
 
-- [tools/templates/opc-open-day-checklist.md](../../../tools/templates/opc-open-day-checklist.md)
+- [resources/templates/opc-open-day-checklist.md](../../../resources/templates/opc-open-day-checklist.md)
