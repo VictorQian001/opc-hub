@@ -10,6 +10,7 @@
 
 当前已收录：
 
+- `arena-ai-leaderboard.md`
 - `chatgpt.md`
 - `cloudflare.md`
 - `feishu.md`

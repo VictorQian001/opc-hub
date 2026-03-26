@@ -8,6 +8,7 @@
 
 ### 内容与研究
 
+- [Arena AI Leaderboard](./arena-ai-leaderboard.md)
 - [ChatGPT](./chatgpt.md)
 - [Notion](./notion.md)
 
