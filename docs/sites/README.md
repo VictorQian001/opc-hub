@@ -2,17 +2,46 @@
 
 [返回 Wiki 首页](../README.md)
 
-这个目录按“国家 / 区域 / 城市 / 站点”组织 OPC 站点信息。
+这里应该首先是目录入口，而不是说明页。
 
-它的目标不是替代每个站点自己的官网，而是给出一个可浏览、可跳转、可核验的目录层，并且让 OPC 可以判断“哪个社区适合自己”。
+如果你是来找社区的，建议直接从下面三个入口开始：
 
-## 站点状态
+## 当前已收录站点
+
+- [杭州 · 培风社](./china/east/hangzhou-peifengshe.md)
+- [杭州 · Honghub 鸿鹄汇](./china/east/hangzhou-honghub.md)
+- [上海 · 复兴岛 OPC 超级个体社区](./china/east/shanghai-fuxingdao-opc-community.md)
+- [北京 · 模数 OPC 社区](./china/north/beijing-modu-opc-community.md)
+- [北京 · 中关村 AI 北纬社区](./china/north/beijing-ai-beiwei-community.md)
+- [深圳 · 华强北 OPC 创新社区](./china/south/shenzhen-huaqiangbei-opc-community.md)
+
+## 按城市找
+
+- [杭州](../cities/hangzhou.md)
+- [上海](../cities/shanghai.md)
+- [北京](../cities/beijing.md)
+- [深圳](../cities/shenzhen.md)
+
+## 按区域找
+
+- [中国站点总入口](./china/README.md)
+- [华东](./china/east/README.md)
+- [华北](./china/north/README.md)
+- [华南](./china/south/README.md)
+
+## 按状态理解目录
 
 - 已收录：已有较明确的公开入口和基本信息
 - 待核验：有线索，但信息还不完整
 - 征集中：目录位置已预留，等待补充
 
-## 建议字段
+## 这个目录的用途
+
+这个目录按“国家 / 区域 / 城市 / 站点”组织 OPC 站点信息。
+
+它的目标不是替代每个站点自己的官网，而是给出一个可浏览、可跳转、可核验的目录层，并且让 OPC 可以判断“哪个社区适合自己”。
+
+## 站点页建议字段
 
 站点页建议尽量补齐这些内容：
 
@@ -32,13 +61,9 @@
 
 其中前六项直接影响 OPC 是否能做判断，不建议长期空缺。
 
-状态说明详见：
+状态和字段说明详见：
 
 - [状态定义](../resources/status-definitions.md)
-
-## 区域入口
-
-- [中国站点](./china/README.md)
 
 ## 如何新增站点
 
@@ -59,4 +84,6 @@
 ## 相关页面
 
 - [城市入口](../cities/README.md)
+- [我是 OPC](../opc/README.md)
+- [我是社区主理人](../maintainers/README.md)
 - [如何共建](../contributing.md)
