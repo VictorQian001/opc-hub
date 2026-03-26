@@ -25,11 +25,7 @@
 
 ### 如果你是社区主理人
 
-建议按这个顺序：
-
-1. 先看 [社区主理人入口](./maintainers/README.md)
-2. 再看 [站点目录字段说明](./sites/README.md)
-3. 最后看 [如何共建](./contributing.md)
+先看 [社区主理人入口](./maintainers/README.md)，里面只保留了维护步骤、必填字段和提交入口。
 
 ## 当前结构
 
