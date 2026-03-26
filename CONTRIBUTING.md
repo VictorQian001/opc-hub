@@ -7,6 +7,8 @@
 建议先从 wiki 入口开始阅读：
 
 - [Wiki 首页](./docs/README.md)
+- [我是 OPC](./docs/opc/README.md)
+- [我是社区主理人](./docs/maintainers/README.md)
 - [站点目录](./docs/sites/README.md)
 - [资源库](./docs/resources/README.md)
 
@@ -56,6 +58,17 @@ resources/<type>/<name>.md
 3. 存到对应城市或区域目录
 4. 如果有必要，再补 `docs/` 里的索引页链接
 5. 在 PR 描述里说明来源和变更原因
+
+如果你是社区主理人，建议优先补齐这些会影响 OPC 判断的字段：
+
+- 面向人群
+- 社区方向
+- 适合阶段
+- 进入门槛
+- 成本
+- 报名方式
+- 是否长期开放
+- 优惠政策
 
 ## 新增资源的流程
 

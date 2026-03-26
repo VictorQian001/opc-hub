@@ -2,7 +2,24 @@
 
 [返回 Wiki 首页](../README.md)
 
-这个目录面向一人创业者，统一承接模板、清单、实用网站和说明页面。
+这个目录面向 OPC 和 OPC 社区主理人，统一承接模板、清单、实用网站和说明页面。
+
+## 按使用目的看
+
+### 如果你是 OPC
+
+优先看：
+
+- [实用网站](./websites/README.md)
+- [模板与清单](./templates/README.md)
+
+### 如果你是社区主理人
+
+优先看：
+
+- [模板与清单](./templates/README.md)
+- [状态定义](./status-definitions.md)
+- [OPC 政策与站点观察](./policy-tracker.md)
 
 ## 分类
 
