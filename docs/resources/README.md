@@ -8,6 +8,7 @@
 
 - [什么是 opc-hub](./what-is-opc-hub.md)
 - [状态定义](./status-definitions.md)
+- [OPC 政策与站点观察](./policy-tracker.md)
 
 ## 计划补充
 

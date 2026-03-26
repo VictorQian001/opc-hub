@@ -7,6 +7,7 @@
 ## 已知站点
 
 - [培风社](../sites/china/east/hangzhou-peifengshe.md)
+- [Honghub 鸿鹄汇](../sites/china/east/hangzhou-honghub.md)
 
 ## 当前说明
 
@@ -23,3 +24,4 @@
 
 - [中国站点 / 华东](../sites/china/east/README.md)
 - [状态定义](../resources/status-definitions.md)
+- [OPC 政策与站点观察](../resources/policy-tracker.md)

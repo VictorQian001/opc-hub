@@ -7,7 +7,8 @@
 ## 城市与站点
 
 - [杭州 · 培风社](./hangzhou-peifengshe.md)
-- 上海：征集中
+- [杭州 · Honghub 鸿鹄汇](./hangzhou-honghub.md)
+- [上海 · 复兴岛 OPC 超级个体社区](./shanghai-fuxingdao-opc-community.md)
 
 ## 相关页面
 

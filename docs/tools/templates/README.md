@@ -15,3 +15,5 @@
 
 - [站点收录字段模板](./site-submission-fields.md)
 - [OPC 初次开放日清单](./opc-open-day-checklist.md)
+- [站点核验清单](./site-verification-checklist.md)
+- [城市政策摘录模板](./policy-extract-template.md)
