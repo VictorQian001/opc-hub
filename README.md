@@ -2,7 +2,15 @@
 
 一个面向 OPC 生态的共建仓库。
 
-这里不做单一官网，而是把 OPC 相关信息、全国站点、实用工具和公开资料整理成一个可持续协作的 GitHub 目录，方便更多人一起补充、校对和维护。
+这里不做单一官网，而是把 OPC 相关信息、全国站点、实用工具和公开资料整理成一个可持续协作的 GitHub 目录，并通过主仓库里的 wiki 风格页面组织内容，方便更多人一起补充、校对和维护。
+
+## 先从这里开始
+
+- [进入 Wiki 首页](./docs/README.md)
+- [查看站点目录](./docs/sites/README.md)
+- [查看工具目录](./docs/tools/README.md)
+- [查看资料目录](./docs/resources/README.md)
+- [如何共建](./docs/contributing.md)
 
 ## 这个仓库要解决什么问题
 
@@ -17,13 +25,19 @@
 ```text
 .
 ├── .github/                  # Issue / PR 模板
-├── sites/                    # 全国 OPC 站点目录
+├── docs/                     # Wiki 风格阅读入口
+├── sites/                    # 全国 OPC 站点原始条目
 │   └── china/
 ├── tools/                    # 可复用工具、模板、清单
 ├── resources/                # 公开资料、方法、术语说明
-├── templates/                # 新增站点 / 工具时使用的模板
-└── docs/                     # 仓库使用说明与协作文档
+└── templates/                # 新增站点 / 工具时使用的模板
 ```
+
+其中：
+
+- `docs/` 负责像 wiki 一样组织阅读路径
+- `sites/`、`tools/`、`resources/` 负责存放原始内容
+- `templates/` 负责给协作者提供统一格式
 
 ## 当前收录方向
 
@@ -57,7 +71,7 @@
 
 ## 如何参与共建
 
-1. 先阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)
+1. 先阅读 [如何共建](./docs/contributing.md)
 2. 按模板新增或补充内容
 3. 发起 Pull Request
 4. 如果还没有完整资料，先用 Issue 提交线索
@@ -81,7 +95,7 @@
 
 仓库里已经放了一个示例站点：
 
-- [杭州 · 培风社](./sites/china/east/hangzhou-peifengshe.md)
+- [杭州 · 培风社](./docs/sites/china/east/hangzhou-peifengshe.md)
 
 它的作用主要是帮助后来的人理解站点条目应该怎么写。
 

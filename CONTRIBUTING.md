@@ -4,6 +4,12 @@
 
 这个仓库更像一个公开目录和资料库，不要求复杂开发能力。只要你能补充准确信息、修正错误链接、完善模板内容，就已经是在贡献。
 
+建议先从 wiki 入口开始阅读：
+
+- [Wiki 首页](./docs/README.md)
+- [站点目录](./docs/sites/README.md)
+- [工具目录](./docs/tools/README.md)
+
 ## 你可以贡献什么
 
 - 新的 OPC 站点条目
@@ -23,7 +29,7 @@
 
 ### 站点目录
 
-建议放在：
+原始内容建议放在：
 
 ```text
 sites/china/<region>/<city>-<slug>.md
@@ -37,7 +43,7 @@ sites/china/east/hangzhou-peifengshe.md
 
 ### 工具目录
 
-建议放在：
+原始内容建议放在：
 
 ```text
 tools/<category>/<tool-name>.md
@@ -45,7 +51,7 @@ tools/<category>/<tool-name>.md
 
 ### 资料目录
 
-建议放在：
+原始内容建议放在：
 
 ```text
 resources/<topic>.md
@@ -54,16 +60,18 @@ resources/<topic>.md
 ## 新增站点的流程
 
 1. 复制 [templates/site-entry.md](./templates/site-entry.md)
-2. 按字段补充内容
+2. 按字段补充原始内容
 3. 存到对应城市或区域目录
-4. 在 PR 描述里说明来源和变更原因
+4. 如果有必要，再补 `docs/` 里的索引页链接
+5. 在 PR 描述里说明来源和变更原因
 
 ## 新增工具的流程
 
 1. 复制 [templates/tool-entry.md](./templates/tool-entry.md)
 2. 写清楚这个工具解决什么问题
 3. 给出可直接复用的模板、清单或结构
-4. 在 PR 里说明适用场景
+4. 如果需要展示在 wiki 中，再补 `docs/tools/` 下的入口页
+5. 在 PR 里说明适用场景
 
 ## Pull Request 建议
 
