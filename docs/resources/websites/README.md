@@ -11,18 +11,24 @@
 - [Arena AI Leaderboard](./arena-ai-leaderboard.md)
 - [ChatGPT](./chatgpt.md)
 - [Notion](./notion.md)
+- [Perplexity](./perplexity.md)
 
 ### 建站与视觉
 
 - [Framer](./framer.md)
 - [Figma](./figma.md)
+- [Vercel](./vercel.md)
 
 ### 收集与协作
 
 - [Tally](./tally.md)
 - [飞书](./feishu.md)
+- [n8n](./n8n.md)
 
-### 基础设施与售卖
+### 基础设施、调试与售卖
 
 - [Cloudflare](./cloudflare.md)
+- [Postman](./postman.md)
+- [Plausible Analytics](./plausible.md)
+- [Stripe](./stripe.md)
 - [Gumroad](./gumroad.md)

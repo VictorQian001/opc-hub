@@ -17,5 +17,11 @@
 - `figma.md`
 - `framer.md`
 - `gumroad.md`
+- `n8n.md`
 - `notion.md`
+- `perplexity.md`
+- `plausible.md`
+- `postman.md`
+- `stripe.md`
 - `tally.md`
+- `vercel.md`
