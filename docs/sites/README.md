@@ -11,6 +11,12 @@
 - [杭州 · 培风社](./china/east/hangzhou-peifengshe.md)
 - [杭州 · Honghub 鸿鹄汇](./china/east/hangzhou-honghub.md)
 - [上海 · 复兴岛 OPC 超级个体社区](./china/east/shanghai-fuxingdao-opc-community.md)
+- [上海 · 零界魔方](./china/east/shanghai-lingang-zero-cube.md)
+- [上海 · 视听静界·π空间·派客家](./china/east/shanghai-jingan-paikejia.md)
+- [无锡 · 锡跃SPACE](./china/east/wuxi-xiyue-space.md)
+- [无锡 · EAST+OPC 创新社区](./china/east/wuxi-east-opc.md)
+- [无锡 · 魔方空间](./china/east/wuxi-magic-space.md)
+- [无锡 · 暖村数字游民村落](./china/east/wuxi-nuancun-digital-nomad.md)
 - [北京 · 模数 OPC 社区](./china/north/beijing-modu-opc-community.md)
 - [北京 · 中关村 AI 北纬社区](./china/north/beijing-ai-beiwei-community.md)
 - [深圳 · 华强北 OPC 创新社区](./china/south/shenzhen-huaqiangbei-opc-community.md)
@@ -19,6 +25,7 @@
 
 - [杭州](../cities/hangzhou.md)
 - [上海](../cities/shanghai.md)
+- [无锡](../cities/wuxi.md)
 - [北京](../cities/beijing.md)
 - [深圳](../cities/shenzhen.md)
 

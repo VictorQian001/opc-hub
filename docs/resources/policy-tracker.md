@@ -17,11 +17,15 @@
 ## 上海
 
 - 2026 年 3 月 4 日，杨浦区政府公开信息显示，复兴岛 OPC 超级个体社区启动，并发布 10 条举措。
+- 2025 年 12 月 18 日，临港新片区管委会公开信息显示，“OPC首发社区”正式揭幕，以“零界魔方”为核心载体。
+- 2025 年 12 月 24 日，静安区人民政府公开信息显示，“派客家”入驻率已超 50%，并发布专属礼遇。
 
 相关页面：
 
 - [上海城市页](../cities/shanghai.md)
 - [上海 · 复兴岛 OPC 超级个体社区](../sites/china/east/shanghai-fuxingdao-opc-community.md)
+- [上海 · 零界魔方](../sites/china/east/shanghai-lingang-zero-cube.md)
+- [上海 · 视听静界·π空间·派客家](../sites/china/east/shanghai-jingan-paikejia.md)
 
 ## 北京
 
@@ -43,3 +47,17 @@
 
 - [深圳城市页](../cities/shenzhen.md)
 - [深圳 · 华强北 OPC 创新社区](../sites/china/south/shenzhen-huaqiangbei-opc-community.md)
+
+## 无锡
+
+- 2025 年 12 月 9 日，无锡高新区（新吴区）公开信息显示，揭牌启动“魔方空间”和“暖村数字游民村落”两个 OPC 社区。
+- 2026 年 1 月 10 日，无锡市人民政府公开信息显示，锡跃SPACE 启动并被定位为全球青年友好型 OPC 社区。
+- 2026 年 1 月 18 日，无锡市人民政府公开信息显示，长三角（无锡）国际人才港设立 “EAST+OPC” 创新社区。
+
+相关页面：
+
+- [无锡城市页](../cities/wuxi.md)
+- [无锡 · 锡跃SPACE](../sites/china/east/wuxi-xiyue-space.md)
+- [无锡 · EAST+OPC 创新社区](../sites/china/east/wuxi-east-opc.md)
+- [无锡 · 魔方空间](../sites/china/east/wuxi-magic-space.md)
+- [无锡 · 暖村数字游民村落](../sites/china/east/wuxi-nuancun-digital-nomad.md)

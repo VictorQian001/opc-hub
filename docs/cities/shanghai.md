@@ -7,10 +7,12 @@
 ## 已知站点
 
 - [复兴岛 OPC 超级个体社区](../sites/china/east/shanghai-fuxingdao-opc-community.md)
+- [零界魔方](../sites/china/east/shanghai-lingang-zero-cube.md)
+- [视听静界·π空间·派客家](../sites/china/east/shanghai-jingan-paikejia.md)
 
 ## 当前说明
 
-当前仓库以上海杨浦复兴岛方向为首个公开条目，后续可以继续补临港、浦东等方向的公开信息。
+当前上海已经补到杨浦、临港、静安三个方向，后续还可以继续补浦东、徐汇等公开条目。
 
 ## 相关页面
 
