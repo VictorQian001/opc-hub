@@ -6,12 +6,12 @@
 
 ## 导航
 
-- [我是 OPC：找社区与工具](./opc/README.md)
-- [我是社区主理人：维护社区信息](./maintainers/README.md)
-- [站点目录](./sites/README.md)
-- [资源库](./resources/README.md)
-- [城市入口](./cities/README.md)
-- [如何共建](./contributing.md)
+- [我是 OPC：找社区与工具](./opc/README.md)：适合先判断怎么找社区、怎么比较社区、怎么选工具。
+- [我是社区主理人：维护社区信息](./maintainers/README.md)：适合快速看维护步骤、必填字段和提交入口。
+- [站点目录](./sites/README.md)：直接浏览当前已收录社区，并按城市或区域进入。
+- [资源库](./resources/README.md)：查看模板、实用网站和说明页。
+- [城市入口](./cities/README.md)：按城市聚合查看社区和相关信息。
+- [如何共建](./contributing.md)：看协作方式、提交流程和基本规则。
 
 ## 从哪里开始
 

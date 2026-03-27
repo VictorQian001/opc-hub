@@ -6,10 +6,10 @@
 
 ## 中国
 
-- [杭州](./hangzhou.md)
-- [上海](./shanghai.md)
-- [北京](./beijing.md)
-- [深圳](./shenzhen.md)
+- [杭州](./hangzhou.md)：看杭州当前已知社区和政策入口。
+- [上海](./shanghai.md)：看上海当前已知社区和后续可补方向。
+- [北京](./beijing.md)：看北京不同类型的 OPC 社区条目。
+- [深圳](./shenzhen.md)：看深圳社区和政策信号。
 
 这些页面会逐步成为“城市聚合页”，用于汇总：
 
@@ -20,5 +20,5 @@
 
 ## 相关页面
 
-- [站点目录](../sites/README.md)
-- [资料目录](../resources/README.md)
+- [站点目录](../sites/README.md)：按区域和站点名进入。
+- [资源库](../resources/README.md)：查看模板、工具和说明页。

@@ -10,32 +10,32 @@
 
 优先看：
 
-- [实用网站](./websites/README.md)
-- [模板与清单](./templates/README.md)
+- [实用网站](./websites/README.md)：先看常用工具、网站和平台。
+- [模板与清单](./templates/README.md)：看申请、调研、活动等直接可复制内容。
 
 ### 如果你是社区主理人
 
 优先看：
 
-- [模板与清单](./templates/README.md)
-- [状态定义](./status-definitions.md)
-- [OPC 政策与站点观察](./policy-tracker.md)
+- [模板与清单](./templates/README.md)：看维护社区条目时能直接复用的模板。
+- [状态定义](./status-definitions.md)：看目录状态和字段标准。
+- [OPC 政策与站点观察](./policy-tracker.md)：看已整理的公开政策与城市动作。
 
 ## 分类
 
 ### 模板与清单
 
-- [模板与清单](./templates/README.md)
+- [模板与清单](./templates/README.md)：收录字段模板、核验清单和政策摘录模板。
 
 ### 实用网站
 
-- [实用网站](./websites/README.md)
+- [实用网站](./websites/README.md)：收录调研、建站、自动化、收款等常用网站。
 
 ### 说明与观察
 
-- [什么是 opc-hub](./what-is-opc-hub.md)
-- [状态定义](./status-definitions.md)
-- [OPC 政策与站点观察](./policy-tracker.md)
+- [什么是 opc-hub](./what-is-opc-hub.md)：看这个仓库的定位和结构。
+- [状态定义](./status-definitions.md)：看已收录、待核验、征集中等状态怎么用。
+- [OPC 政策与站点观察](./policy-tracker.md)：看已整理的城市政策和站点动态。
 
 ## 原始内容目录
 
