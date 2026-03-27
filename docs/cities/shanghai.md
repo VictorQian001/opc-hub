@@ -14,7 +14,15 @@
 
 当前上海已经补到杨浦、临港、静安三个方向，后续还可以继续补浦东、徐汇等公开条目。
 
+## 城市政策与数据源
+
+- [临港新片区“OPC首发社区”揭幕，零界魔方为核心载体](https://www.lingang.gov.cn/html/website/lg/index/news/list/p2001644775676084226.html)
+- [静安区公开派客家礼遇与入驻进展](https://www.jingan.gov.cn/rmtzx/003008/003008004/20251224/94c0aa73-4fc5-4d5f-b8fb-c9073025dc55.html)
+- [杨浦区公开复兴岛 OPC 超级个体社区启动与 10 条举措](https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260304/500899.html)
+
+站点页只写社区本身的额外权益；上海层面的政策与公开数据源统一放在这里。
+
 ## 相关页面
 
 - [中国站点 / 华东](../sites/china/east/README.md)
-- [OPC 政策与站点观察](../resources/policy-tracker.md)
+- [城市政策与公开数据源](../resources/policy-tracker.md)

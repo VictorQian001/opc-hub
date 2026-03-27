@@ -10,7 +10,7 @@
   - https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
   - https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html
 - 联系方式：待补充
-- 优惠政策：
+- 社区额外权益：
   - 市区联动产业扶持政策
   - 乐业办公空间与安居住房保障
   - 投融资与场景开放支持
@@ -34,29 +34,10 @@
 - 场景开放
 - 工具与全链条服务
 
-## 优惠政策
+## 社区额外权益
 
 - 行动计划提出提供乐业办公空间和多层次安居住房保障
 - 明确加大创业启动支持、产业政策供给和应用场景开放
 - 通过市区基金和产业基金体系加大投融资支持
 - 南山等区将先行先试建设 OPC 社区，并配套专项方案
 
-## 政策相关数据源链接（可选）
-
-- https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
-- https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html
-
-## 已知公开入口
-
-- 深圳政府在线：打造人工智能 OPC 创业生态引领地
-- 南山区公开信息：建设 OPC 社区相关说明
-
-## 补充说明
-
-- 深圳市工业和信息化局公开信息 2026 年 1 月 15 日提到，到 2027 年底将建成超过 10 家 OPC 社区。
-- 华强北相关公开报道 2026 年 1 月中旬提到其已落地深圳首个 OPC 创新社区，但当前仓库优先以政府公开政策页面作为可核验入口。
-
-## 信息来源
-
-- https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
-- https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html

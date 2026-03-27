@@ -19,22 +19,9 @@
   - 2025 年 12 月 31 日
   - 2026 年 1 月 27 日
 
-## 优惠政策
+## 社区额外权益
 
 - 公开信息显示其通过政府、国企和社群协同提供资源支持
 - 已提到 OPC 子基金和专项政策规划
 - 适合需要低成本触达场景与用户的创业者
 
-## 政策相关数据源链接
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-12/31/content_9153828.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/27/content_9169063_0.htm
-
-## 原始内容文件
-
-- [sites/china/east/hangzhou-qingju-agi-community.md](../../../../sites/china/east/hangzhou-qingju-agi-community.md)
-
-## 相关页面
-
-- [杭州城市页](../../../cities/hangzhou.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

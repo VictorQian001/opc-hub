@@ -10,7 +10,7 @@
   - https://hznews.hangzhou.com.cn/jingji/content/2025-09/26/content_9091201.htm
   - https://hznews.hangzhou.com.cn/chengshi/content/2026-02/03/content_9172607.htm
 - 联系方式：待补充
-- 优惠政策：
+- 社区额外权益：
   - 发布“数栖八条”专项扶持政策
   - 300 方以内免费办公空间
   - 最高 300 万研发费用、物业能耗等补助
@@ -38,35 +38,10 @@
 - 资源链接
 - 孵化加速
 
-## 优惠政策
+## 社区额外权益
 
 - 发布“数栖八条”专项扶持政策
 - 为初创者提供 300 方以内免费办公空间
 - 最高 300 万研发费用、物业能耗等补助
 - 配套“人才驿站”和专业孵化平台
 
-## 政策相关数据源链接（可选）
-
-- https://hznews.hangzhou.com.cn/jingji/content/2025-09/26/content_9091201.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-02/03/content_9172607.htm
-
-## 报名与开放
-
-- 报名方式：待补充
-- 是否长期开放：待补充
-- 当前备注：公开报道显示该社区高频举办创业朋友局、Demo Day 和技术沙龙
-
-## 已知公开入口
-
-- 杭州网：“数栖八条”专项扶持政策重磅发布 良渚数栖湾亮相
-- 杭州网：“一人公司”成新爆点 杭州何以抢占风口？
-
-## 补充说明
-
-- 2025 年 9 月 26 日，杭州网公开信息显示，良渚数栖湾 AI+产业社区开园并发布“数栖八条”专项扶持政策。
-- 2026 年 2 月 3 日，杭州网公开报道将良渚数栖湾列为适配 OPC 的高频活动社区之一。
-
-## 信息来源
-
-- https://hznews.hangzhou.com.cn/jingji/content/2025-09/26/content_9091201.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-02/03/content_9172607.htm

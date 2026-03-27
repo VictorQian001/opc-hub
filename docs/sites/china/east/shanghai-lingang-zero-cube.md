@@ -17,21 +17,9 @@
 - 类型：OPC 首发社区
 - 公开信息时间：2025 年 12 月 18 日
 
-## 优惠政策
+## 社区额外权益
 
 - 临港 C5 引擎创业支持体系
 - 四大 OPC 创业专项服务包
 - 涵盖算力补贴、青春驿站、启航基金等 18 类 60 余项服务
 
-## 政策相关数据源链接
-
-- https://www.lingang.gov.cn/html/website/lg/index/news/list/p2001644775676084226.html
-
-## 原始内容文件
-
-- [sites/china/east/shanghai-lingang-zero-cube.md](../../../../sites/china/east/shanghai-lingang-zero-cube.md)
-
-## 相关页面
-
-- [上海城市页](../../../cities/shanghai.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

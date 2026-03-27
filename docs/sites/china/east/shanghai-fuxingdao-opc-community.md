@@ -17,28 +17,10 @@
 - 类型：OPC 超级个体社区
 - 公开信息时间：2026 年 3 月 4 日
 
-## 优惠政策
+## 社区额外权益
 
 - 月租金低于 1000 元/人的人才公寓
 - 落户绿色通道
 - 每家企业每年最高 20 万元创新券补贴
 - 首年全额减免房租及物业费
 
-## 政策相关数据源链接
-
-- https://www.shyp.gov.cn/shypq/xwzx-bmdt/20260304/500899.html
-
-## 已知公开动作
-
-- 社区启动
-- 发布 10 条举措
-- 面向 OPC 社区、AI 驱动的超级个体企业及生态伙伴开放
-
-## 原始内容文件
-
-- [sites/china/east/shanghai-fuxingdao-opc-community.md](../../../../sites/china/east/shanghai-fuxingdao-opc-community.md)
-
-## 相关页面
-
-- [上海城市页](../../../cities/shanghai.md)
-- [状态定义](../../../resources/status-definitions.md)

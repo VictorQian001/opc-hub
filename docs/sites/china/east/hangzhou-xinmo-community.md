@@ -17,21 +17,9 @@
 - 类型：OPC 友好型创业社区
 - 公开信息时间：2026 年 2 月 28 日
 
-## 优惠政策
+## 社区额外权益
 
 - 办公场地支持
 - 算力支持
 - 对口工厂资源推荐
 
-## 政策相关数据源链接
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-02/28/content_9183618.htm
-
-## 原始内容文件
-
-- [sites/china/east/hangzhou-xinmo-community.md](../../../../sites/china/east/hangzhou-xinmo-community.md)
-
-## 相关页面
-
-- [杭州城市页](../../../cities/hangzhou.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

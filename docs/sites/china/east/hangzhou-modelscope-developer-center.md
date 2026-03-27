@@ -19,22 +19,9 @@
   - 2025 年 11 月 23 日
   - 2026 年 1 月 6 日
 
-## 优惠政策
+## 社区额外权益
 
 - 提供共享办公与路演等功能场景
 - 引入数据、硬件开发等公共服务平台
 - 更偏基础设施和协作支持，不是典型补贴型社区
 
-## 政策相关数据源链接
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-11/23/content_9129510.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/06/content_9157051.htm
-
-## 原始内容文件
-
-- [sites/china/east/hangzhou-modelscope-developer-center.md](../../../../sites/china/east/hangzhou-modelscope-developer-center.md)
-
-## 相关页面
-
-- [杭州城市页](../../../cities/hangzhou.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

@@ -10,7 +10,7 @@
   - https://hznews.hangzhou.com.cn/chengshi/content/2025-11/23/content_9129510.htm
   - https://hznews.hangzhou.com.cn/chengshi/content/2026-01/06/content_9157051.htm
 - 联系方式：待补充
-- 优惠政策：
+- 社区额外权益：
   - 首期空间超 1 万平方米
   - 配套共享办公、研讨室、路演厅等功能场景
   - 引入数据要素服务、AI 硬件开发等 8 大公共服务平台
@@ -37,33 +37,8 @@
 - 公共服务平台
 - 数据与硬件开发资源链接
 
-## 优惠政策
+## 社区额外权益
 
 - 公开信息显示其提供共享办公与公共服务平台支持
 - 对 AI 创业者而言，核心价值在于降低办公与协作成本，而非明确现金补贴
 
-## 政策相关数据源链接（可选）
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-11/23/content_9129510.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/06/content_9157051.htm
-
-## 报名与开放
-
-- 报名方式：待补充
-- 是否长期开放：待补充
-- 当前备注：公开报道显示已有来自多地的开发者来此办公，并吸引创业者入驻共享办公区
-
-## 已知公开入口
-
-- 杭州网：“魔搭社区”（杭州）开发者中心正式启用 AI开发者，有了线下的“家”
-- 杭州网：打破“次元壁”杭州为全球AI开发者建了一个线下社区
-
-## 补充说明
-
-- 2025 年 11 月 23 日，杭州网公开信息显示，“魔搭社区”（杭州）开发者中心正式启用。
-- 2026 年 1 月 6 日，杭州网公开报道其已成为多地开发者在线下办公、社交和合作的空间。
-
-## 信息来源
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-11/23/content_9129510.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/06/content_9157051.htm

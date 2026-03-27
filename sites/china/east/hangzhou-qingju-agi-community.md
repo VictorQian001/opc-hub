@@ -10,7 +10,7 @@
   - https://hznews.hangzhou.com.cn/chengshi/content/2025-12/31/content_9153828.htm
   - https://hznews.hangzhou.com.cn/chengshi/content/2026-01/27/content_9169063_0.htm
 - 联系方式：待补充
-- 优惠政策：
+- 社区额外权益：
   - 公开信息显示由街道、枢纽管委会、国企与社群共同搭建
   - 计划通过场景清单、基金与专项政策降低 OPC 创业成本
   - 可通过市集和活动零成本触达真实用户
@@ -37,34 +37,9 @@
 - 国企与政府资源对接
 - 融资与基金线索
 
-## 优惠政策
+## 社区额外权益
 
 - 公开信息显示其核心架构为“政府搭台、部门协同、国企运营、社群主理”
 - 2026 年 1 月公开报道提到，上城区正计划推出专项政策，并规划首期规模 1 亿元的 OPC 子基金
 - 公开活动强调帮助 OPC 创业者以更低成本触达真实用户需求
 
-## 政策相关数据源链接（可选）
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-12/31/content_9153828.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/27/content_9169063_0.htm
-
-## 报名与开放
-
-- 报名方式：待补充
-- 是否长期开放：待补充
-- 当前备注：公开信息显示该共同体与未来数智港同步启动，并持续承接 AI 市集与社群活动
-
-## 已知公开入口
-
-- 杭州网：从“流量枢纽”到“AGI首站” 上城如何让过客为创新“停留”
-- 杭州网：三天三场 OPC 盛会席卷杭州
-
-## 补充说明
-
-- 2025 年 12 月 31 日，杭州网公开信息显示，“青聚枢纽”AGI 青创共同体同步启动。
-- 2026 年 1 月 27 日，杭州网公开信息显示，该共同体正通过 AI 市集、场景需求清单和基金规划支持 OPC 创业者。
-
-## 信息来源
-
-- https://hznews.hangzhou.com.cn/chengshi/content/2025-12/31/content_9153828.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/27/content_9169063_0.htm

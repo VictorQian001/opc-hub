@@ -19,22 +19,9 @@
   - 2025 年 12 月 9 日
   - 2025 年 12 月 11 日
 
-## 优惠政策
+## 社区额外权益
 
 - 人工智能专项政策支持
 - 算力、数据等研发支撑
 - 数字游民友好型环境
 
-## 政策相关数据源链接
-
-- https://www.wnd.gov.cn/doc/2025/12/09/4695143.shtml
-- https://www.wuxi.gov.cn/doc/2025/12/11/4700182.shtml
-
-## 原始内容文件
-
-- [sites/china/east/wuxi-nuancun-digital-nomad.md](../../../../sites/china/east/wuxi-nuancun-digital-nomad.md)
-
-## 相关页面
-
-- [无锡城市页](../../../cities/wuxi.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

@@ -19,29 +19,10 @@
   - 2026 年 1 月 15 日
   - 2026 年 1 月 19 日
 
-## 优惠政策
+## 社区额外权益
 
 - 乐业办公空间与安居住房保障
 - 创业启动支持与产业政策供给
 - 场景开放和投融资支持
 - 南山等区先行先试建设 OPC 社区并制定专项方案
 
-## 政策相关数据源链接
-
-- https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
-- https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html
-
-## 已知公开动作
-
-- 深圳发布人工智能 OPC 创业生态行动计划
-- 明确提出布局一批 OPC 社区
-- 华强北被公开报道为深圳首个 OPC 创新社区方向
-
-## 原始内容文件
-
-- [sites/china/south/shenzhen-huaqiangbei-opc-community.md](../../../../sites/china/south/shenzhen-huaqiangbei-opc-community.md)
-
-## 相关页面
-
-- [深圳城市页](../../../cities/shenzhen.md)
-- [状态定义](../../../resources/status-definitions.md)

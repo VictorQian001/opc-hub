@@ -19,22 +19,9 @@
   - 2025 年 9 月 26 日
   - 2026 年 2 月 3 日
 
-## 优惠政策
+## 社区额外权益
 
 - 发布“数栖八条”专项扶持政策
 - 为符合条件项目提供免费办公空间和补助
 - 配套人才驿站与孵化资源
 
-## 政策相关数据源链接
-
-- https://hznews.hangzhou.com.cn/jingji/content/2025-09/26/content_9091201.htm
-- https://hznews.hangzhou.com.cn/chengshi/content/2026-02/03/content_9172607.htm
-
-## 原始内容文件
-
-- [sites/china/east/hangzhou-liangzhu-shuqiwan.md](../../../../sites/china/east/hangzhou-liangzhu-shuqiwan.md)
-
-## 相关页面
-
-- [杭州城市页](../../../cities/hangzhou.md)
-- [OPC 政策与站点观察](../../../resources/policy-tracker.md)
