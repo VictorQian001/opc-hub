@@ -26,6 +26,11 @@
 - 场景开放和投融资支持
 - 南山等区先行先试建设 OPC 社区并制定专项方案
 
+## 政策相关数据源链接
+
+- https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
+- https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html
+
 ## 已知公开动作
 
 - 深圳发布人工智能 OPC 创业生态行动计划

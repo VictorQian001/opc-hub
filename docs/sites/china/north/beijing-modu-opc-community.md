@@ -24,6 +24,10 @@
 - 人才认定后三年最高 50 万元奖励
 - 提供免租空间和“前三个月免租、首年 2.5 折”住房优惠
 
+## 政策相关数据源链接
+
+- https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/lqztkfq/lqzx/zsdt/202602/t20260202_4485301.html
+
 ## 已知公开动作
 
 - 启动建设模数 OPC 社区

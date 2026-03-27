@@ -25,6 +25,11 @@
 - 算力、数据等研发支撑
 - 场景验证与商业化测试环境
 
+## 政策相关数据源链接
+
+- https://www.wnd.gov.cn/doc/2025/12/09/4695143.shtml
+- https://www.wuxi.gov.cn/doc/2025/12/11/4700182.shtml
+
 ## 原始内容文件
 
 - [sites/china/east/wuxi-magic-space.md](../../../../sites/china/east/wuxi-magic-space.md)

@@ -23,6 +23,10 @@
 - 四大 OPC 创业专项服务包
 - 涵盖算力补贴、青春驿站、启航基金等 18 类 60 余项服务
 
+## 政策相关数据源链接
+
+- https://www.lingang.gov.cn/html/website/lg/index/news/list/p2001644775676084226.html
+
 ## 原始内容文件
 
 - [sites/china/east/shanghai-lingang-zero-cube.md](../../../../sites/china/east/shanghai-lingang-zero-cube.md)

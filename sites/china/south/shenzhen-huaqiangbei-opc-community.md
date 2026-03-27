@@ -41,6 +41,11 @@
 - 通过市区基金和产业基金体系加大投融资支持
 - 南山等区将先行先试建设 OPC 社区，并配套专项方案
 
+## 政策相关数据源链接（可选）
+
+- https://www.sz.gov.cn/cn/xxgk/zfxxgj/bmdt/content/post_12602690.html
+- https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_12605999.html
+
 ## 已知公开入口
 
 - 深圳政府在线：打造人工智能 OPC 创业生态引领地

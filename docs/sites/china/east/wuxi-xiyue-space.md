@@ -24,6 +24,10 @@
 - “无忧十策”政策包
 - 租金减免
 
+## 政策相关数据源链接
+
+- https://www.wuxi.gov.cn/doc/2026/01/10/4715599.shtml
+
 ## 原始内容文件
 
 - [sites/china/east/wuxi-xiyue-space.md](../../../../sites/china/east/wuxi-xiyue-space.md)
