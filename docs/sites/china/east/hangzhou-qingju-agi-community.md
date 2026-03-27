@@ -1,0 +1,40 @@
+# 杭州 · 青聚枢纽 AGI 青创共同体
+
+[返回华东](./README.md)
+
+## 状态
+
+已收录
+
+## 简介
+
+青聚枢纽 AGI 青创共同体位于杭州上城未来数智港，是偏生态驱动的 OPC 支持平台，适合 AI 应用创业者和 AGI 社群成员。
+
+## 当前已知信息
+
+- 城市：杭州
+- 区域：华东
+- 类型：OPC 支持平台 / AGI 青创共同体
+- 公开信息时间：
+  - 2025 年 12 月 31 日
+  - 2026 年 1 月 27 日
+
+## 优惠政策
+
+- 公开信息显示其通过政府、国企和社群协同提供资源支持
+- 已提到 OPC 子基金和专项政策规划
+- 适合需要低成本触达场景与用户的创业者
+
+## 政策相关数据源链接
+
+- https://hznews.hangzhou.com.cn/chengshi/content/2025-12/31/content_9153828.htm
+- https://hznews.hangzhou.com.cn/chengshi/content/2026-01/27/content_9169063_0.htm
+
+## 原始内容文件
+
+- [sites/china/east/hangzhou-qingju-agi-community.md](../../../../sites/china/east/hangzhou-qingju-agi-community.md)
+
+## 相关页面
+
+- [杭州城市页](../../../cities/hangzhou.md)
+- [OPC 政策与站点观察](../../../resources/policy-tracker.md)

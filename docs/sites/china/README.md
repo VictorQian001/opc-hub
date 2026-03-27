@@ -17,6 +17,11 @@
 
 - [杭州 · 培风社](./east/hangzhou-peifengshe.md)：杭州方向的社区示例条目。
 - [杭州 · Honghub 鸿鹄汇](./east/hangzhou-honghub.md)：杭州公开可核验的加速社区条目。
+- [杭州 · 仓前 A3 OPC 国际社区](./east/hangzhou-cangqian-a3-opc-community.md)：杭州余杭方向的镇街级 OPC 国际社区。
+- [杭州 · 芯模社区](./east/hangzhou-xinmo-community.md)：杭州萧山方向偏研发导向的 OPC 友好社区。
+- [杭州 · 青聚枢纽 AGI 青创共同体](./east/hangzhou-qingju-agi-community.md)：杭州上城方向的生态驱动型 OPC 支持平台。
+- [杭州 · 良渚数栖湾 AI+产业社区](./east/hangzhou-liangzhu-shuqiwan.md)：杭州余杭良渚方向的 AI+ 产业社区。
+- [杭州 · 魔搭社区（杭州）开发者中心](./east/hangzhou-modelscope-developer-center.md)：杭州西湖方向的 AI 开源开发者线下社区。
 - [上海 · 复兴岛 OPC 超级个体社区](./east/shanghai-fuxingdao-opc-community.md)：上海杨浦方向的已收录条目。
 - [上海 · 零界魔方](./east/shanghai-lingang-zero-cube.md)：上海临港方向的 OPC 首发社区条目。
 - [上海 · 视听静界·π空间·派客家](./east/shanghai-jingan-paikejia.md)：上海静安方向的创新社区条目。

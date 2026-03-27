@@ -6,13 +6,23 @@
 
 ## 杭州
 
+- 2025 年 9 月 26 日，杭州网公开信息显示，良渚数栖湾 AI+产业社区开园，并发布“数栖八条”专项扶持政策。
+- 2025 年 11 月 23 日，杭州网公开信息显示，“魔搭社区”（杭州）开发者中心正式启用。
 - 2025 年 12 月 18 日，杭州网公开报道上城区 Honghub 鸿鹄汇已运行并收到大量申请。
+- 2025 年 12 月 31 日，杭州网公开信息显示，“青聚枢纽”AGI 青创共同体同步启动。
 - 2026 年 1 月 24 日，杭州网公开报道 Honghub 鸿鹄汇发布 OPC-OS。
+- 2026 年 2 月 28 日，杭州网公开报道萧山区钱江世纪城芯模社区正加速助力“一人公司”发展。
+- 2026 年 3 月 4 日，杭州网公开信息显示，余杭仓前街道发布《OPC服务十条》并启用仓前 A3 OPC 国际社区。
 
 相关页面：
 
 - [杭州城市页](../cities/hangzhou.md)
 - [杭州 · Honghub 鸿鹄汇](../sites/china/east/hangzhou-honghub.md)
+- [杭州 · 青聚枢纽 AGI 青创共同体](../sites/china/east/hangzhou-qingju-agi-community.md)
+- [杭州 · 良渚数栖湾 AI+产业社区](../sites/china/east/hangzhou-liangzhu-shuqiwan.md)
+- [杭州 · 魔搭社区（杭州）开发者中心](../sites/china/east/hangzhou-modelscope-developer-center.md)
+- [杭州 · 仓前 A3 OPC 国际社区](../sites/china/east/hangzhou-cangqian-a3-opc-community.md)
+- [杭州 · 芯模社区](../sites/china/east/hangzhou-xinmo-community.md)
 
 ## 上海
 
